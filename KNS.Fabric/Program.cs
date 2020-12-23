@@ -16,7 +16,7 @@ namespace KNS.Fabric
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new UserListForm());
+            Application.Run(new LoginForm());
         }
     }
 }
